@@ -26,8 +26,10 @@ int main() {
         cout << "               _____" << endl;
         cout << "               |___|     " << endl;
         cout << "              <(o )___-" << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
-        cout << "               ( .__> /" << endl; // student 3(2) may change this line
-        cout << "                `----' " << endl; // TODO student 2 may change this line and may add lines below
+        cout << "          / /  ( .__>/  \\  \\ ______"   << endl; // student 3(2) may change this line
+        cout << "          \\ \\  `----'  /  /  M    M" << endl; // TODO student 2 may change this line and may add lines below
+        cout << "           \\  `-------'  /   ||  ||" << endl;
+        cout << "            `-----------'    ||  ||" << endl;
     }
 
     return 0;
