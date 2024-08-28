@@ -5,9 +5,9 @@
     Original code and ASCII art by Dr. Jan Pearce, Berea College
 
     Edits made by:
-    TODO: Austin
-    TODO: <Add name of student 2 Here> -- to be added by student 2
-    TODO: <Add name of student 3 Here> -- to be added by student 3 (if relevant otherwise, student 2 should remove this line)
+    Austin
+    <Add name of student 2 Here> -- to be added by student 2
+    <Add name of student 3 Here> -- to be added by student 3 (if relevant otherwise, student 2 should remove this line)
  */
 #include <iostream>
 using namespace std;
